@@ -1,0 +1,31 @@
+
+{
+  "name": "react-native-google-play-game-services-workaround",
+  "version": "0.0.2",
+  "description": "Google Play Game Services bindings for React Native",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isrmicha/react-native-google-play-game-services-workaround"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "google play",
+    "google play game services",
+    "android"
+  ],
+  "bugs": {
+    "url": "https://github.com/isrmicha/react-native-google-play-game-services-workaround"
+  },
+  "homepage": "https://github.com/isrmicha/react-native-google-play-game-services-workaround#readme",
+  "author": "Kimble Young",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=15.4.0 || >=16.x",
+    "react-native": ">=0.40"
+  }
+}
+
